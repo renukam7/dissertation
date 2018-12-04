@@ -1,0 +1,3 @@
+zip -r allfilesproject.zip  /var/lib/postgresql/ -x /var/lib/postgresql/9.6/**\*
+
+
